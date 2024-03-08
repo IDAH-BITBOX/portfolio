@@ -1,0 +1,24 @@
+#!/bin/bash
+pip3.11 install numpy
+pip3.11 install pandas
+pip3.11 install mysql-connector-python
+pip3.11 install sqlalchemy
+pip3.11 install scipy
+pip3.11 install openpyxl
+pip3.11 install xmltodict
+pip3.11 install requests
+pip3.11 install bokeh
+pip3.11 install aiomysql
+pip3.11 install greenlet 
+pip3.11 install xlrd
+pip3.11 install PyJWT
+pip3.11 install bcrypt
+pip3.11 install fastapi
+pip3.11 install "uvicorn[standard]"
+pip3.11 install python-multipart
+pip3.11 install pytz
+pip3.11 install openai
+pip3.11 install transformers[torch]
+pip3.11 install sentencepiece
+pip3.11 install langchain
+pip3.11 install fastapi-utilities

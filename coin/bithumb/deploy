@@ -1,0 +1,6 @@
+git pull origin master
+./remove_pid_app
+rm ./sell_log.txt
+rm ./buy_log.txt
+rm ./nohup.out
+./run_app

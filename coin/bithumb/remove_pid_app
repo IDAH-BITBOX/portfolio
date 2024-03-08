@@ -1,0 +1,4 @@
+#!/bin/bash
+ps -ef | grep Coin.py | grep Coin >> pid.txt
+ps -ef | grep Report.py | grep Report >> pid2.txt
+python3 remove_pid_app.py

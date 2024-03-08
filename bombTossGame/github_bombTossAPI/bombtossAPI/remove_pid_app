@@ -1,0 +1,3 @@
+#!/bin/bash
+ps -ef | grep app.py | grep 9091 >> pid2.txt
+python3.11 remove_pid_app.py
